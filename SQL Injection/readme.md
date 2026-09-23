@@ -34,8 +34,8 @@ Prepared statements separate SQL instructions from user-supplied
 data and help prevent SQL Injection.
 
 ## Testing Environment
-Kali Linux
-DVWA
-Docker
-Localhost
-Controlled laboratory environment
+- Kali Linux
+- DVWA
+- Docker
+- Localhost
+- Controlled laboratory environment
